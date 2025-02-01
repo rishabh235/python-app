@@ -1,0 +1,12 @@
+python notes
+------------
+
+
+1. list :collection of items of hetrogeneous []
+
+2. dict :{} keyvalue:JSON
+   emps=[
+    {}
+   ]
+
+3. tuple: (): not editable(readonly)
